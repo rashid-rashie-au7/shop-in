@@ -1,0 +1,26 @@
+*, body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .loadMore {
+    width: 200px;
+    color: #fff;
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+    font-style: unset;
+    font-weight: 900;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    background-color: red;
+    transition: .3s;
+  }
+  .loadMore:hover {
+    color: seashell;
+    background-color: #002540;
+    border: 1px solid;
+    text-decoration: none;
+  }
+ 
